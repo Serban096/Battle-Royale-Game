@@ -1,2 +1,2 @@
-# Tema-2-POO
-Un joc simplu in c++ creat folosind concepte de POO
+# Battle Royale game
+A simple battle royale game made in C++ using OOP concepts
